@@ -2,7 +2,7 @@
 
 Spring Boot backend application for managing employee leave requests with **JWT authentication** and **role-based access control (Employee, Manager, HR)**.
 
-Detailed architecture and workflow are explained in the **attached PDF document**.
+Detailed architecture explanation, API testing screenshots, and backend workflow are available in the documentation folder below.
 
 ---
 
@@ -47,15 +47,15 @@ HR Reports
 
 ---
 
-## Run the Project
+## Running the Project
 
-Clone repository
+Clone the repository
 
 ```
 git clone https://github.com/Yuvraj599/EmployeeManagement.git
 ```
 
-Run application
+Run the application
 
 ```
 mvn spring-boot:run
@@ -97,55 +97,12 @@ Password
 
 ---
 
-# API Testing Screenshots
+## Documentation & Screenshots
 
-## Project Structure
+Architecture explanation, API testing screenshots, and backend workflow:
 
-![Project Structure](Screenshots/Screenshot%20\(2060\).png)
-
-## Spring Boot Configuration
-
-![Configuration](Screenshots/Screenshot%20\(2061\).png)
-
-## Controller Implementation
-
-![Controller](Screenshots/Screenshot%20\(2065\).png)
-
-## Service Layer
-
-![Service](Screenshots/Screenshot%20\(2066\).png)
-
-## H2 Database Tables
-
-![Database Tables](Screenshots/Screenshot%20\(2067\).png)
-
-## Users Table
-
-![Users Table](Screenshots/Screenshot%20\(2068\).png)
-
-## Login API (JWT Token)
-
-![Login API](Screenshots/Screenshot%20\(2069\).png)
-
-## Manager Login
-
-![Manager Login](Screenshots/Screenshot%20\(2070\).png)
-
-## Employee Leave Requests
-
-![Leave Requests](Screenshots/Screenshot%20\(2071\).png)
-
-## Leave Status in Database
-
-![Leave Status](Screenshots/Screenshot%20\(2072\).png)
-
-## HR Reports API
-![Uploading Screenshot (2073).png…]()
-
-
-## Leave Summary Output
-
-![Leave Summary](Screenshots/Screenshot%20\(2074\).png)
+**Google Drive:**
+https://drive.google.com/drive/folders/1nDStERqOQqLc3zMzYmlD4r4NQtv9WwQd?usp=sharing
 
 ---
 

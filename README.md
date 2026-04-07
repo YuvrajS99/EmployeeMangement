@@ -140,8 +140,8 @@ Password
 ![Leave Status](Screenshots/Screenshot%20\(2072\).png)
 
 ## HR Reports API
+![Uploading Screenshot (2073).png…]()
 
-![HR Reports](Screenshots/Screenshot%20\(2073\).png)
 
 ## Leave Summary Output
 
